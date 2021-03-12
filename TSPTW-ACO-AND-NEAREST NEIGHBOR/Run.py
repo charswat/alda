@@ -8,6 +8,7 @@ if __name__ == '__main__':
         print('-' * 100)
         print('file_path: %s' % file_path)
         print('\n')
+        #file_path = './SolomonPotvinBengio/rc_208.3.txt'
         ants_num = 10
         beta = 2
         q0 = 0.1

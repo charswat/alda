@@ -79,7 +79,7 @@ class BasicACO:
                 break
 
         print('\n')
-        print("El menor costo obtinido con hormigas es  ", (self.best_path_distance),  "en", (time.time() - start_time_total),"segundos")
+        print("El menor costo obtenido con hormigas es  ", (self.best_path_distance),  "en", (time.time() - start_time_total),"segundos")
 
     def select_next_index(self, ant):
         """
